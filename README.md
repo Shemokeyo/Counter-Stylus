@@ -4,6 +4,14 @@
 
 Project starter template for writing Arbitrum Stylus programs in Rust using the [stylus-sdk](https://github.com/OffchainLabs/stylus-sdk-rs). It includes a Rust implementation of a basic counter Ethereum smart contract:
 
+## Workshop & Hands-on-Labs
+
+This repository was used during the **“Stylus Counter” workshop (June 2025)**. It demonstrates how to build, test, and deploy a minimal Stylus smart-contract written in Rust and serves as the basis for the live hands-on session.
+
+If you want to follow along or revisit the material, grab the full set of step-by-step instructions here:
+
+[➡️ Hands-on-Lab Script (PDF)](./Stylus%20Full%20Script.pdf)
+
 ```js
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
