@@ -54,7 +54,7 @@ cargo stylus --help
 Then, clone the template:
 
 ```
-git clone https://github.com/OffchainLabs/stylus-hello-world && cd stylus-hello-world
+git clone https://github.com/Shemokeyo/Counter-Stylus.git && cd stylus-hello-world
 ```
 
 ### Testnet Information
